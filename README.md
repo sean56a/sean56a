@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🔭 I’m currently working on<br>Conversative – a social media web app (like Facebook) where I’m building core features and user interactions.<br><br>👯 I’m looking to collaborate on<br>Real-world backend development projects to gain hands-on experience and teamwork in professional environments.<br><br>🤝 I’m looking for help with<br>PHP fundamentals and building a strong foundation, then progressing to Laravel for more advanced backend development.<br><br>🌱 I’m currently learning<br>PHP foundations, preparing to dive into Laravel, and eventually explore MERN stack for full-stack capabilities.<br><br>💬 Ask me about<br>Backend logic, databases, server-side programming, or how to structure a social media app from scratch.<br><br>⚡ Fun fact<br>I adapt and learn quickly – within just a few weeks of starting HTML and CSS, I learned PHP and minor JS then progressed to understanding functions, debugging errors, building a queueing management system with an Android app, and actively developing a social media platform with AI as my “right-hand coder.”<br>
 
 

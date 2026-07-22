@@ -1,19 +1,31 @@
-# About Me:
+# About Me
 
-🔭 I’m currently working on  
-Building my technical portfolio with hardware repair case studies, IT support projects, and software development projects that showcase my troubleshooting and problem-solving skills.
+### Currently Working On
+- Building my technical portfolio with hardware repair case studies, IT support projects, and software development projects that demonstrate practical troubleshooting and problem-solving skills.
 
-👯 I’m looking to collaborate on  
-IT support, system administration, infrastructure, and technical troubleshooting projects.
+### Interested In
+- IT Support
+- Technical Support
+- System Administration
+- IT Infrastructure
+- Hardware Diagnostics & Repair
+- IT Asset Management
 
-🤝 I’m looking for help with  
-Windows Server, Active Directory, Linux administration, networking, virtualization, and SAP Basis fundamentals.
+### Currently Learning
+- Windows Server
+- Active Directory
+- Linux Administration
+- Networking Fundamentals
+- Virtualization
+- SAP Basis Fundamentals
+- Industry-recognized IT certifications
 
-🌱 I’m currently learning  
-IT support best practices, Windows & Linux system administration, networking fundamentals, and preparing for SAP Basis while pursuing industry-recognized certifications.
+### Ask Me About
+- PC Hardware & Laptop Repair
+- Windows Troubleshooting
+- Networking Fundamentals
+- PHP & MySQL
+- Software Development
 
-💬 Ask me about  
-PC hardware, laptop repair, Windows troubleshooting, networking fundamentals, PHP, MySQL, or my software development projects.
-
-⚡ Fun fact  
-I enjoy solving technical problems and often lose track of time when troubleshooting hardware, repairing devices, or building software. I enjoy learning by doing and documenting my work through technical case studies.
+### Fun Fact
+I enjoy diagnosing technical issues and often lose track of time while repairing devices, troubleshooting systems, or building new projects. I believe the best way to learn is through hands-on experience and continuous improvement.
